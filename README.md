@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm demedeirosd23
 - I'm currently 18 years old
 - I'm a student at Walpole High School
+- I'm from Brazil
+- My favorite food is barbecue
+- Pronouns: He/him
 
 <!--
 **demedeirosd23/demedeirosd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
