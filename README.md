@@ -4,6 +4,7 @@
 - I'm from Brazil
 - My favorite food is barbecue
 - Pronouns: He/him
+- How to reach me... demedeirosd23@wpsma.org
 
 <!--
 **demedeirosd23/demedeirosd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
