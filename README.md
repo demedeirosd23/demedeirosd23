@@ -6,7 +6,7 @@ Hi there 👋 I'm demedeirosd23
 - 🥩 My favorite food is barbecue
 - 🤵 Pronouns: He/him
 - 📧 How to reach me... demedeirosd23@wpsma.org
-- 🔗 Portfolio: https://demedeirosd23.github.io/
+- 🔗 [Portfolio](https://demedeirosd23.github.io/)
 
 <!--
 **demedeirosd23/demedeirosd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
